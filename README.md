@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Vishal Pawar
 
 ## 🚀 About Me
-I'm a passionate React.js Developer based in Bidar, India, with a strong focus on creating compelling and interactive user interfaces. I have experience in both professional development and mentoring, and I'm always eager to learn and apply new technologies.
+I'm a passionate React.js Developer based in Bidar (Karnataka), India, with a strong focus on creating compelling and interactive user interfaces. I have experience in both professional development and mentoring, and I'm always eager to learn and apply new technologies.
 
 ## 🔧 Technologies & Tools
 <p align="center">
