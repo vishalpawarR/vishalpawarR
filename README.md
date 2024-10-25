@@ -40,7 +40,7 @@ I'm deeply immersed in the React.js ecosystem, constantly exploring best practic
 - Successfully implemented responsive design for seamless user experience across all devices -->
 
 ## 🎓 Education
-- B.E. in Civil Engineering, School of Engineering and Technology, Jain University, Bangalore, India (CGPA: 7)
+- B.Tech(Engineering) , School of Engineering and Technology, Jain University, Bangalore, India (CGPA: 7)
 - JavaScript: The Hard Parts, v2 by Will Sentance
 
 ## 🤝 Connect with me
