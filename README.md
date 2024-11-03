@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Vishal Pawar
 
-## 🚀 About Me
-I'm a passionate React.js Developer based in Bidar (Karnataka), India, with a strong focus on creating compelling and interactive user interfaces. I have experience in both professional development and mentoring, and I'm always eager to learn and apply new technologies.
+[![](https://visitcount.itsvg.in/api?id=VishalPawarR&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🔧 Technologies & Tools
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" title="CSS3"/>
@@ -26,22 +26,6 @@ I'm a passionate React.js Developer based in Bidar (Karnataka), India, with a st
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40" title="Jest"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/> -->
 </p>
-
-## 🌱 I'm currently learning
-I'm deeply immersed in the React.js ecosystem, constantly exploring best practices and staying abreast of emerging trends. My work involves leveraging advanced JavaScript concepts and optimizing execution contexts to create efficient and scalable applications.
-
-## 💼 Professional Experience
-- **React.js Developer** at Empower School of Health, Delhi, India (July 2021 – December 2023)
-- **React.js Intern** at Empower School of Health, Delhi, India (January 2021 - June 2021)
-
-<!-- ## 🏆 Achievements
-- Improved website loading speed by 30% through effective use of browser developer tools
-- Reduced the number of bugs by 40% within one quarter through collaborative testing efforts
-- Successfully implemented responsive design for seamless user experience across all devices -->
-
-## 🎓 Education
-- B.E. in Civil Engineering, School of Engineering and Technology, Jain University, Bangalore, India (CGPA: 7)
-- JavaScript: The Hard Parts, v2 by Will Sentance
 
 ## 🤝 Connect with me
 
@@ -71,4 +55,9 @@ I'm deeply immersed in the React.js ecosystem, constantly exploring best practic
 
 ---
 
-⭐️ From [VishalPawarR](https://github.com/vishalpawarr)
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=VishalPawarR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalPawarR&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+⭐️ From [VishalPawarR](https:vishalpawar.netlify.app/hire-github)
